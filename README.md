@@ -86,7 +86,7 @@ See [GOVERNANCE.md](GOVERNANCE.md) and [DATASET_STRATEGY.md](datasets/DATASET_ST
 ## Licensing
 
 The initial proposal is:
-- Software and code: **Apache-2.0**
+- Software and code: **MIT** (the repository's current `LICENSE` file)
 - Documentation: **CC-BY-4.0**
 - Datasets: licensed individually according to provenance, consent, third-party rights, and applicable restrictions.
 
